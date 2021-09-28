@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+.mailfoto{
+    width: 130px;
+    height: 65px;
+    left: 720px;
+    bottom: 180px;
+    position: absolute;
+}
+
+.left-bar{
+    width: 230px;
+    height: 661px;
+    position: relative;
+    left: 250px;
+    top: 150px;
+    border-radius: 10px;
+    background-color: #f5f8ff;
+}
+
+.management-dashboard{
+    width: 100%;
+    height: 969.4px;
+}
+
+ul.action{
+    list-style: none;
+    font-size: 12px;
+    position: relative;
+    left: 65px;
+    top: 70px;
+}
+
+li{
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+i.fa-inbox{
+    position: relative;
+    left: -25px;
+    top: 17px;
+    font-size: 13px;
+    color: rgb(119, 117, 117);
+}
+
+i.fa-star{
+    position: relative;
+    left: -27px;
+    top: 17px;
+    font-size: 13px;
+}
+
+i.fa-calendar-week{
+    position: relative;
+    left: -25px;
+    top: 17px;
+    font-size: 13px;
+}
+
+i.fa-exclamation{
+    position: relative;
+    left: -23px;
+    top: 17px;
+    font-size: 13px;
+}
+
+i.fa-handshake{
+    position: relative;
+    left: -28px;
+    top: 17px;
+    font-size: 16px;
+}
+
+i.fa-trash-alt{
+    position: relative;
+    left: -26px;
+    top: 17px;
+    font-size: 16px;
+}
+
+.off{
+    color: #9d9ea3;
+    position: relative;
+    top: 30px;
+    left: -2px;
+    margin-bottom: 14px;
+}
+
+i.fa-users{
+    position: relative;
+    left: -26px;
+    top: 17px;
+    font-size: 16px;
+}
+
+i.fa-sun{
+    position: relative;
+    left: -26px;
+    top: 17px;
+    font-size: 16px;
+}
+
+i.fa-chart-line{
+    position: relative;
+    left: -26px;
+    top: 17px;
+    font-size: 16px;
+}
+
+i.fa-microphone-alt{
+    position: relative;
+    left: -26px;
+    top: 17px;
+    font-size: 16px;
+}
+
+.circle{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #fe4d46;
+    box-shadow: 14px 0 0 0 #ffbb00, 28px 0 0 0 #7dd21f;
+    position: relative;
+    left: 18px;
+    top: 18px;
+}
+
+.circle2{
+    border-radius: 50%;
+    width: 7px;
+    height: 7px;
+    background-color: #cfcfcf;
+    box-shadow: 14px 0 0 0 #cfcfcf, 28px 0 0 0 #cfcfcf;
+    position: relative;
+    left: 175px;
+    top: 10px;
+}
+
+.content{
+    width: 650px;
+    height: 661px;
+    background: #f3f3f3;
+    position: relative;
+    left: 470px;
+    bottom: 511px;
+}
+
+.ayrac{
+    height: 660px;
+    width: 3px;
+    color: royalblue;
+    display: inline-block;
+}
+
+hr{
+    -webkit-transform: rotate(90deg);
+    position: relative;
+    left: -330px;
+    top: 330px;
+    width: 660px;
+}
+
+.menu-2{
+    width: 350px;
+    height: 661px;
+    background-color: red;
+}
